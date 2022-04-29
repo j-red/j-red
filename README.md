@@ -47,3 +47,10 @@ I am passionate about both machine learning and data science, as well as art, mu
 ##### 2019
 * Ripple University Blockchain Research Initiative Scholarship ($5000)
 * OSAC LHS Outstanding Achievement & Need Award ($4000)
+
+------------
+
+### ᴄᴏɴᴛᴀᴄᴛ:
+
+The best way to reach me is by carrier pigeon, though email is a close second. 
+jared<at>cs.uoregon.edu
