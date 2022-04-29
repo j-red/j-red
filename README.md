@@ -53,4 +53,4 @@ I am passionate about both machine learning and data science, as well as art, mu
 ### ᴄᴏɴᴛᴀᴄᴛ:
 
 The best way to reach me is by carrier pigeon, though email is a close second. 
-jared<at>cs.uoregon.edu
+jared \<at\> cs.uoregon.edu
