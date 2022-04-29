@@ -7,9 +7,9 @@
            ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝   ╚═╝  ╚═╝╚══════╝   ╚═╝     ╚══════╝ ╚════╝ ╚══════╝╚══════╝
 ```
 ### ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ! ɪᴛ's sᴏ ᴠᴇʀʏ ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ.
-My name is Jared, I am currently a Ph.D. student at the University of Oregon studying machine learning for use in network applications. I conduct research with the Oregon Network Research Group developing new ways of leveraging innovations in machine learning for use in making the network management more accessible and robust.
+My name is Jared, I'm a Ph.D. student at the University of Oregon studying machine learning for use in network applications. I conduct research with the Oregon Network Research Group developing new ways of leveraging innovations in machine learning to make network management more accessible and robust.
 
-Check out my site! https://j-red.github.io/
+<!-- Check out my site! https://j-red.github.io/ -->
 
 ------------
 
@@ -53,4 +53,5 @@ I am passionate about both machine learning and data science, as well as art, mu
 ### ᴄᴏɴᴛᴀᴄᴛ:
 
 The best way to reach me is by carrier pigeon, though email is a close second. 
+
 jared \<at\> cs.uoregon.edu
