@@ -19,7 +19,7 @@ I completed my B.S. in Math, Computer Science, and Music Technology in Winter 20
 ------------
 
 ### ᴍʏ ɪɴᴛᴇʀᴇsᴛs:
-I am passionate about both machine learning and data science, as well as music, art, and digital technologies. In my limited spare time, I enjoy tinkering with old electronics, building algorithmic soundscapes and music installations, designing 3D sculptures, and building the [occasional silly website](https://j-red.github.io/vtt/).
+I am passionate about both machine learning and data science, as well as art, music, and digital technologies. In my limited spare time I enjoy tinkering with old electronics, developing algorithmic soundscapes, designing 3D sculptures, and building the [occasional silly website](https://j-red.github.io/vtt/).
 
 ------------
 
