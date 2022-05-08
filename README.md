@@ -6,20 +6,22 @@
           ╚█████╔╝██║  ██║██║  ██║███████╗██████╔╝  ██║ ╚██╗███████╗   ██║     ███████╗╚█████╔╝███████╗███████╗
            ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝   ╚═╝  ╚═╝╚══════╝   ╚═╝     ╚══════╝ ╚════╝ ╚══════╝╚══════╝
 ```
-### ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ! ɪᴛ's sᴏ ᴠᴇʀʏ ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ.
-My name is Jared, I'm a Ph.D. student at the University of Oregon studying machine learning for use in network applications. I conduct research with the Oregon Network Research Group developing new ways of leveraging innovations in machine learning to make network management more accessible and robust.
+### ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ!
+My name is Jared, I'm a Machine Learning Ph.D. student at the University of Oregon. I conduct research with the Oregon Network Research Group developing new ways of leveraging innovations in machine learning to make network management more accessible and robust. I also enjoy digital art and design, and am interested in creating technical art at the intersection of programming and artistic design.
 
 <!-- Check out my site! https://j-red.github.io/ -->
 
 ------------
 
 ### ᴇᴅᴜᴄᴀᴛɪᴏɴ:
-I completed my B.S. in Math, Computer Science, and Music Technology in Winter 2022 at the University of Oregon. I then joined the Ph.D. program in Computer Science (with an emphasis on Machine Learning) at the University of Oregon, where I remain to this day.
+I completed my B.S. in Math, Computer Science, and Music Technology in Winter 2022 at the University of Oregon. I then joined the Ph.D. program in Computer Science (with an emphasis on Machine Learning) at the University of Oregon, where I am today.
 
 ------------
 
 ### ᴍʏ ɪɴᴛᴇʀᴇsᴛs:
 I am passionate about both machine learning and data science, as well as art, music, and digital technologies. In my limited spare time I enjoy tinkering with old electronics, developing algorithmic soundscapes, designing 3D sculptures, and building the [occasional silly website](https://j-red.github.io/vtt/).
+
+Check out my 3D Demo Reel [here](https://j-red.github.io/portfolio/3D-demo/)!
 
 ------------
 
