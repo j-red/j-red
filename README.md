@@ -7,55 +7,26 @@
            ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝   ╚═╝  ╚═╝╚══════╝   ╚═╝   
 ```
 ### ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ!
-My name is Jared, I'm a Software Engineer and Machine Learning Ph.D. student (currently on hiatus). I conduct research on identifying new ways of leveraging innovations in machine learning to make network management more accessible and robust. I also enjoy digital art and design, and am interested in creating technical art at the intersection of programming and artistic design.
+My name is Jared, I'm a Senior Programmer Analyst at `[redacted]`. I have over seven years' experience in software engineering, system architecture, and solution design. 
+In my spare time, I can be found writing esoteric music software, practicing carpentry, or in the mountains on a motorcycle. 
 
-Check out my site! https://j-red.github.io/
+------------
+
+### sᴋɪʟʟs:
+* Over 10 years' experience programming in object-oriented languages including Python, Java, C, C#, and C++.
+* Extensive web development experience utilizing frameworks such as React, TypeScript, jQuery, and Node.JS.
+* High degree of familiarity with standard development tools for features such as Version Control (git), Test Automation (Selenium, pytest), Containerization (Docker), and CI/CD integrations (GitLab, Jenkins, GitHub Actions).
+* A background in machine learning research with experience in the PyTorch, Keras, and TensorFlow deep-learning libraries.
 
 ------------
 
 ### ᴇᴅᴜᴄᴀᴛɪᴏɴ:
-I completed my B.S. in Math, Computer Science, and Music Technology in March 2022 and now work as a Software Engineer.
-
-------------
-
-### ᴍʏ ɪɴᴛᴇʀᴇsᴛs:
-I am passionate about both machine learning and data science, as well as art, music, and digital technologies. In my limited spare time I enjoy tinkering with old electronics, developing algorithmic soundscapes, designing 3D sculptures, and building the [occasional silly website](https://j-red.github.io/vtt/).
-
-Check out my 3D Demo Reel [here](https://j-red.github.io/demoreel/)!
-
-------------
-
-<!-- ### ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ:
-* **Aʀɪsᴇ: A Mᴜʟᴛɪ-Tᴀsᴋ Wᴇᴀᴋ Sᴜᴘᴇʀᴠɪsɪᴏɴ Fʀᴀᴍᴇᴡᴏʀᴋ ғᴏʀ Nᴇᴛᴡᴏʀᴋ Mᴇᴀsᴜʀᴇᴍᴇɴᴛs**: a machine learning framework capable of leveraging recent innovations in both multi-task learning and weak supervision. Published in [IEEE JSAC 2022](https://www.comsoc.org/publications/journals/ieee-jsac). 
-
-* **A Cᴏɴᴠᴇʀsᴀᴛɪᴏɴᴀʟ Iɴᴛᴇʟʟɪɢᴇɴᴄᴇ Aᴘᴘʀᴏᴀᴄʜ Tᴏ Nᴇᴛᴡᴏʀᴋ Mᴀɴᴀɢᴇᴍᴇɴᴛ:** developing a natural language interface for penetration testing and network management. This paper will likely be submitted to [ACM CoNext 2022](https://conferences2.sigcomm.org/co-next/2022/).
-
-* **Aʀɪsᴇ++:** leveraging innovations in multi-task machine learning to generate high-level network insight using real-world data. The findings from this project will be submitted for publication in a top networking venue (likely the SIGCOMM 2022 Experience Track).
-
------------- -->
-
-### ᴀᴄᴄᴏʟᴀᴅᴇs:
-##### 2022
-* Published “ARISE: A Multi-Task Weak Supervision Framework for Network Measurements,” in IEEE Journal on Selected Areas in Communications, 2022, doi: 10.1109/JSAC.2022.3180783.
-* Graduated *summa cum laude* with University and Departmental Honors.
-* Phillip W. and Judy A. Seeley Graduate Fellowship in Computer and Information Science ($6000)
-##### 2021
-* Ripple University Blockchain Research Initiative Scholarship ($5000)
-* Vice President for Research and Innovation (VPRI) Fellowship ($5000)
-* Phillip Seeley Scholarship in Computer and Information Science ($1000)
-* Jean Wittemyer Memorial Scholarship ($2000)
-##### 2020
-* Ripple University Blockchain Research Initiative Scholarship ($5000)
-* Clark Honors College Outstanding Achievement Scholarship ($1000)
-* Louise Bishop Study Abroad Scholarship ($2000)
-##### 2019
-* Ripple University Blockchain Research Initiative Scholarship ($5000)
-* OSAC LHS Outstanding Achievement & Need Award ($4000)
+Bachelor of Science in Math, Computer Science, and Music Technology. _Summa cum laude_ graduate. Ph.D. dropout.
 
 ------------
 
 ### ᴄᴏɴᴛᴀᴄᴛ:
 
-The best way to reach me is by carrier pigeon, though email email works too. 
+The best way to reach me is by carrier pigeon, but email works too. [2i0ocrig7@mozmail.com](mailto:2i0ocrig7@mozmail.com)
 
-jared \<at\> cs.uoregon.edu
+###### I know the address looks suspicious, but it's to protect my privacy. I promise I'll respond 😁
